@@ -1,0 +1,3 @@
+Found new device #22789 DeviceType.TirePressureMonitor; device_type: 48, transmission_type: 0
+Found new device #21686 DeviceType.TirePressureMonitor; device_type: 48, transmission_type: 0
+Found new device #55387 DeviceType.PowerMeter; device_type: 11, transmission_type: 5
